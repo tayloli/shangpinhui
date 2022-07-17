@@ -1,4 +1,4 @@
-# shop
+# shangpinhui-shop
 
 ## Project setup
 ```
